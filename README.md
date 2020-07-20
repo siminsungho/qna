@@ -1,2 +1,1 @@
-# qna
 Question and Answer
